@@ -1,0 +1,4 @@
+/app/node_modules/
+/.vscode/
+/app/www/client.js
+/app/package-lock.json
