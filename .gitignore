@@ -1,4 +1,5 @@
 /app/node_modules/
 /.vscode/
 /app/www/client.js
+/app/www/js/bundle.js
 /app/package-lock.json
